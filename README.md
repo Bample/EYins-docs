@@ -51,3 +51,7 @@ EYins - EasyYins，简单的配置，强大的功能，正如上面所说:简洁
 > 如果你在使用的时候有任何问题,欢迎在Issues提出
 > 
 > 不过...建议自己排查/查看Q&A后再提问
+
+## 贡献者
+[@Konger](https://github.com/Konghuaiqing) 
+[@LiangYin](https://github.com/LiangYin233)

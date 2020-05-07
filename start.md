@@ -1,6 +1,6 @@
 当前文档描述的是主题的0.14版本
 
-在本则文档中,认定您已经会使用Hexo
+在本则文档中，认定您已经会使用Hexo
 # 配置项
 请使用 Notepad++，VSCode等编辑器打开主题配置文件。对于 Windows 用户，**不建议**使用自带记事本打开配置文件，既不方便,也会带来不可预料的编码错误。
 
@@ -73,30 +73,53 @@ social:
   zhihu: 
   weibo: 
   stackflow:
-  github: https://github.com/LiangYin233
+  github: 
 ```
 
 说明:显示在页面底部的社交媒体信息,现仅支持上述内容。
 
 ## 第三方服务设置
 ### 评论系统
-valine评论系统
+#### valine评论系统
 
 ```
 valine:
   comment_name: 评论 # your comment area title 评论标题
-  enable: true # if you want use valine, please set this value to true 启用valine
+  enable: false # if you want use valine, please set this value to true 启用valine
   app_id: # your leancloud appId
   app_key: # your leancloud appKey
   placeholder: 来留言呀~ # Comment Box placeholder 占位符
+  pageSize: 8 # 评论显示页数
+  enableQQ: true # 是否把qq号转换为qq昵称和头像
+  emojiCDN: ''
+  emojiMaps:
 ```
 请到[Valine官方网站](https://valine.js.org)获取如何使用它
+##### 自定义emoji示例
+```
+emojiCDN: 'https://cdn.jsdelivr.net/gh/blogimg/'
+emojiMaps: 
+bilibili_face_疑问: emotion/bilibili/face_疑问.png
+bilibili_face_再见: emotion/bilibili/face_再见.png
+bilibili_face_拥抱: emotion/bilibili/face_拥抱.png
+bilibili_face_武汉加油: emotion/bilibili/face_武汉加油.png
+```
 
-disqus评论系统
+#### disqus评论系统
 
-``disqus_shortname:``
+```
+disqus_shortname:
+```
 
 请在disqus官网获取你的shortname
+
+#### 必来力评论系统
+
+```
+livere_uid:
+```
+
+将 livere_uid 改为自己的uid则启用该评论系统
 
 ### 第三方统计/收录服务
 ```
@@ -112,4 +135,4 @@ meta_head:字符串
 
 ``meta_head: ""``
 
-说明:用于验证需要meta头的分析平台
+说明:用于验证需要meta头的分析平台（如：百度，谷歌的SEO，以及其他的js、css引入等）
