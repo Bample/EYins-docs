@@ -91,6 +91,7 @@ valine:
   placeholder: 来留言呀~ # Comment Box placeholder 占位符
   pageSize: 8 # 评论显示页数
   enableQQ: true # 是否把qq号转换为qq昵称和头像
+<<<<<<< HEAD
   # 当前主题还未开发自定义emoji功能，欢迎大佬提交pr。
   # emojiCDN: ''
   # emojiMaps:
@@ -105,6 +106,10 @@ valine:
 # bilibili_face_拥抱: emotion/bilibili/face_拥抱.png
 # bilibili_face_武汉加油: emotion/bilibili/face_武汉加油.png
 ```
+=======
+```
+请到[Valine官方网站](https://valine.js.org)获取如何使用它
+>>>>>>> d8cc310588c86034310c458b38c107dd201beb23
 
 #### disqus评论系统
 
