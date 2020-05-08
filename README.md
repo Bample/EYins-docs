@@ -15,9 +15,9 @@
 
 在hexo.io/themes，有许多优秀的主题。
 
-当然，也有一部分使我眼花缭乱的主题，我这人喜欢扁平风与简洁的设计，为了满足这个欲望，这款主题出现了。
+当然，也有一部分使我们眼花缭乱的主题，我们喜欢扁平风与简洁的设计，为了满足这个欲望，这款主题出现了。
 
-EYins - EasyYins，简单的配置，强大的功能，正如上面所说:简洁 不简单。
+EYins - EasyYins，简单的配置，强大的功能，正如上面所说: 简洁 ，不简单。
 
 ## 鸣谢
 由于自己技术的欠缺,想找一个主题模板的基础上进行整体的修改,
@@ -31,18 +31,18 @@ EYins - EasyYins，简单的配置，强大的功能，正如上面所说:简洁
 ## 优势
 在ztopic的基础上,我增加了一部分内容,特别在欠缺的一部分针对LightHouse进行了优化,目前我博客(采用EYins)的LightHouse得分如下:
 
-![LightHouse](https://github.com/LiangYin233/hexo-theme-EYins/raw/master/EYins.png)
+![LightHouse](https://cdn.jsdelivr.net/gh/yinsteam/hexo-theme-eyins@master/EYins.png)
 
 不止得分,主题的界面也非常nice!
 
 [主题DEMO](https://liangyin.xyz)
 
-自适应也非常完美,0.13版本的主题大小(去掉背景图片):103KB
+自适应也非常完美,0.15版本的主题大小(去掉背景图片):103KB
 
 ## 强大
 无需接触复杂的代码，只要在配置文件中就可以通通自定义。
 
-支持 2 种通用评论系统(之后会逐步增加)：Disqus、Valine
+支持 3 种通用评论系统(之后会逐步增加)：Disqus、Valine、必来力
 
 支持 3 种统计服务：Google Analytics、百度统计、腾讯移动分析
 

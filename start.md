@@ -91,18 +91,19 @@ valine:
   placeholder: 来留言呀~ # Comment Box placeholder 占位符
   pageSize: 8 # 评论显示页数
   enableQQ: true # 是否把qq号转换为qq昵称和头像
-  emojiCDN: ''
-  emojiMaps:
+  # 当前主题还未开发自定义emoji功能，欢迎大佬提交pr。
+  # emojiCDN: ''
+  # emojiMaps:
 ```
 请到[Valine官方网站](https://valine.js.org)获取如何使用它
 ##### 自定义emoji示例
 ```
-emojiCDN: 'https://cdn.jsdelivr.net/gh/blogimg/'
-emojiMaps: 
-bilibili_face_疑问: emotion/bilibili/face_疑问.png
-bilibili_face_再见: emotion/bilibili/face_再见.png
-bilibili_face_拥抱: emotion/bilibili/face_拥抱.png
-bilibili_face_武汉加油: emotion/bilibili/face_武汉加油.png
+# emojiCDN: 'https://cdn.jsdelivr.net/gh/blogimg/'
+# emojiMaps: 
+# bilibili_face_疑问: emotion/bilibili/face_疑问.png
+# bilibili_face_再见: emotion/bilibili/face_再见.png
+# bilibili_face_拥抱: emotion/bilibili/face_拥抱.png
+# bilibili_face_武汉加油: emotion/bilibili/face_武汉加油.png
 ```
 
 #### disqus评论系统
