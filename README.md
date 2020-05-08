@@ -52,6 +52,10 @@ EYins - EasyYins，简单的配置，强大的功能，正如上面所说: 简�
 > 
 > 不过...建议自己排查/查看Q&A后再提问
 
-## 贡献者
-[@Konger](https://github.com/Konghuaiqing) 
-[@LiangYin](https://github.com/LiangYin233)
+---
+
+> 发现错误？想一起完善？ [在Github上编辑此页](https://github.com/YinsTeam/EYins-docs/edit/master/README.md)
+> 
+> 本页面贡献者：[@Konger](https://github.com/Konghuaiqing)  [@LiangYin](https://github.com/LiangYin233)
+> 
+> 本页面的全部内容在 **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 和 [MIT](https://github.com/YinsTeam/hexo-theme-EYins/blob/master/LICENSE)** 协议之条款下提供，附加条款亦可能应用
