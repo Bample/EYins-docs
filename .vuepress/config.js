@@ -62,6 +62,6 @@ module.exports = {
 	   ['vuepress-plugin-smooth-scroll'],  // 平滑滚动
 	   ['@vuepress/nprogress'],  // 加载进度条
 	   ['reading-progress'],  // 阅读进度条
-       plugins: ['@vuepress/medium-zoom']
+       ['@vuepress/medium-zoom']
 	 ]
 }

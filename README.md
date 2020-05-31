@@ -15,7 +15,7 @@ footer: MIT Licensed | Copyright © 2020 YinsTeam
 # 开始
 ## 安装
 ```bash
-$ git clone https://github.com/LiangYin233/hexo-theme-EYins.git themes/EYins
+$ git clone https://github.com/YinsTeam/hexo-theme-EYins.git themes/eyins
 ```
 ## 安装依赖项
 ```bash
