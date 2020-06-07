@@ -2,7 +2,7 @@
 
 在本则文档中，认定您已经会使用Hexo
 # 配置项
-请使用 Notepad++，VSCode等编辑器打开主题配置文件。对于 Windows 用户，**不建议**使用自带记事本打开配置文件，既不方便，也会带来不可预料的编码错误。
+请使用 `Notepad++`，`VSCod`等编辑器打开主题配置文件。对于 Windows 用户，**不建议**使用自带记事本打开配置文件，既不方便，也会带来不可预料的编码错误。
 
 ## 其它
 favicon：图片路径
@@ -110,7 +110,7 @@ valine:
   placeholder: 来留言呀~ # Comment Box placeholder 占位符
   pageSize: 8 # 评论显示页数
   enableQQ: true # 是否把qq号转换为qq昵称和头像
-  # 当前主题还未开发自定义emoji功能，欢迎提交pr。
+  # 当前主题还未开发自定义emoji功能，欢迎提交您的更改
   # emojiCDN: ''
   # emojiMaps:
 ```

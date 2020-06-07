@@ -8,6 +8,7 @@ module.exports = {
 	  nav: [
 	        { text: '主页', link: '/', icon: 'reco-home' },
 			{ text: '开始', link: '/start', icon: 'reco-document' },
+			{ test: '关于', link: '/about/' icon: 'reco-tongzhi'}
 			{ text: 'Q&A', link: '/q&a', icon: 'reco-faq' },
 	        { text: 'Demo', link: 'https://eyins-demo.netlify.app', icon: 'reco-category' },
 	        // 显示下拉列表
